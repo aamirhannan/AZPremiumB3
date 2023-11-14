@@ -1,0 +1,1 @@
+{"name":"Local: print_binary","url":"e:\\C++\\Code\\AZPremiumB3\\bit_manupulation\\print_binary.cpp","tests":[{"id":1693475367165,"input":"1\n7","output":"00000000000000000000000000000111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Code\\AZPremiumB3\\bit_manupulation\\print_binary.cpp","group":"local","local":true}

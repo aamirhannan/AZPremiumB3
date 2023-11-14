@@ -1,0 +1,1 @@
+{"name":"Local: prime_pallindrome","url":"e:\\C++\\Code\\AZPremiumB3\\prime_pallindrome.cpp","tests":[{"id":1694434850246,"input":"2 1000000000","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Code\\AZPremiumB3\\prime_pallindrome.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2sum","url":"e:\\C++\\Code\\AZPremiumB3\\2sum.cpp","tests":[{"id":1693600155063,"input":"3\n4 9\n2 7 11 15\n5 10\n1 2 3 5 5\n2 100\n48 49","output":"0 1\n3 4\n-1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Code\\AZPremiumB3\\2sum.cpp","group":"local","local":true}

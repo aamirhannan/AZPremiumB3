@@ -1,0 +1,1 @@
+{"name":"Local: selling_cookies","url":"e:\\C++\\Code\\AZPremiumB3\\selling_cookies.cpp","tests":[{"id":1694900125752,"input":"1\n4\n2 2 2 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Code\\AZPremiumB3\\selling_cookies.cpp","group":"local","local":true}

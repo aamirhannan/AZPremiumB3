@@ -1,0 +1,1 @@
+{"name":"Local: one_edge","url":"e:\\C++\\Code\\AZPremiumB3\\one_edge.cpp","tests":[{"id":1695400782636,"input":"4 3\n1 2\n2 3\n3 4","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Code\\AZPremiumB3\\one_edge.cpp","group":"local","local":true}
